@@ -2,7 +2,7 @@
 
 The Restaurant-Inspection-Report Application displays restaurant inspection rating in surrey on a map and list.
 
-##How it works
+## How it works
 The app is extremely simple to use. You can switch between the map and list with a simple click of a button.
 It shows all restuarants nearby your location with their company logos.
 You can click on the restaurant logos for their current inspection hazard rating.
