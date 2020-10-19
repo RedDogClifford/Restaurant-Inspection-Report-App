@@ -1,0 +1,87 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">RestaurantList</string>
+    <string name="title_activity_list">Restaurant List</string>
+    <string name="_0">0%</string>
+    <string name="loading">Loading…</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="list_of_restaurant">List of Restaurant</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="restaurant_information">restaurant information</string>
+    <string name="how_long_ago">how long ago</string>
+    <string name="noncrit">NonCrit</string>
+    <string name="crit">Crit</string>
+    <string name="gps_coords">GPS Coords :</string>
+    <string name="address">Address :</string>
+    <string name="title_activity_inspection_details">Inspection Details</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="description">Description:</string>
+    <string name="severity">Severity:</string>
+    <string name="date_of_inspection">Date of Inspection:</string>
+    <string name="textview">TextView</string>
+    <string name="inspection_type">Inspection type:</string>
+    <string name="critical_issues_found"># critical issues found:</string>
+    <string name="non_critical_issues_found"># non-critical issues found:</string>
+    <string name="hazard_level">Hazard level:</string>
+    <string name="color_coded">Color Coded:</string>
+    <string name="list_of_violations">List of Violations:</string>
+    <string name="hazard_icon">Hazard Icon</string>
+    <string name="severity_icon">Severity Icon</string>
+    <string name="violation_type">Violation Type</string>
+    <string name="not_critical">Severity: Not Critical</string>
+    <string name="critical">Severity: Critical</string>
+    <string name="greeting">hi, nothing here</string>
+
+    <string-array name="my_array">
+        <item>Regulatory failure </item>
+        <item>Inappropriate processes of food</item>
+        <item>Equipment/utensils sanitary issue</item>
+        <item>Employee sanitary issue</item>
+        <item>Missing FOODSAFE Level 1 or equivalent</item>
+    </string-array>
+
+
+    <string name="title_activity_maps">Map</string>
+    <string name="enter_address_city_or_zip_code">Enter Address, City or Zip Code</string>
+    <string name="of_critical_violation"># of Critical Violation:</string>
+    <string name="of_non_critical_violation"># of Non-critical Violation:</string>
+    <string name="na">na</string>
+    <string name="update_now">Update now?</string>
+    <string name="no">no</string>
+    <string name="yes">yes</string>
+    <string name="tracking">Tracking #</string>
+    <string name="todo">TODO</string>
+    <string name="Hazard_level">Hazard level</string>
+    <string name="How_long_ago">How long ago</string>
+    <string name="search">search</string>
+    <string name="enter_search_preferences">Enter Search Preferences :</string>
+    <string name="show_critical_violations">Show Critical Violations</string>
+    <string name="enter_data">Enter Data</string>
+    <string name="clear">CLEAR</string>
+    <string name="enter_restaurant_name">Enter Restaurant Name</string>
+    <string name="Restaurant_List">Restaurant List</string>
+    <string name="Restaurant_Details">Restaurant Details</string>
+    <string name="Restaurant_Inspection">Restaurant Inspection</string>
+    <string name="Search">Search</string>
+    <string name="Latest_installed">Latest installed</string>
+    <string name="Issues_Found">\Issues Found: \</string>
+    <string name="Hazard_Level">\Hazard Level: \</string>
+    <string name="of_critical_issues_found">"# of critical issues found : "</string>
+    <string name="of_non_critical_issues_found">"# of non critical issues found : "</string>
+    <string name="number_Hazard_Level">"Hazard Level : "</string>
+    <string name="show_favourite_only">Show Favourite Only: </string>
+    <string name="Date">Date: </string>
+    <string name="enter_number">Enter Number</string>
+    <string-array name="FavoriteChoose">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+
+</resources>
