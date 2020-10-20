@@ -28,7 +28,9 @@ Each restaurant will have the following information : Name, Physical Address, Ph
 Each inspection can be clicked on for further details including : Inspection Date, Inspection Type, Critical or not Critical, Violation Details, and Hazard Rating
   
 You can star the restaurants so that your favourites stay at the top of the list.
+
 -Favourited Restaurants will also appear with a star on the map.
+
 -Favourited Restaurants will be stored in users phones so that future runs will retain favourited restaurants.
 
 
