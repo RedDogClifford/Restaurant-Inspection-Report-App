@@ -4,9 +4,11 @@ The Restaurant-Inspection-Report Application displays restaurant inspection rati
 
 ## How it works
 The app is extremely simple to use. You can switch between the map and list with a simple click of a button.
-It shows all restuarants nearby your location with their company logos.
-You can click on the restaurant logos for their current inspection hazard rating.
-Clicking the rating will take you to the list page with the details of the restaurant location, the latest rating along, and a list of past hazard inspections.
+
+  ## The map
+  shows all restuarants nearby your location with their company logos.
+  You can click on the restaurant logos for their current inspection hazard rating.
+  Clicking the rating will take you to the list page with the details of the restaurant location, the latest rating along, and a list of past hazard inspections.
 
 Each restaurant will have the following information
   Name, Physical Address, Physical City, FacType, Latitude, Longitude
