@@ -31,6 +31,7 @@ Each inspection can be clicked on for further details including
   
 You can star the restaurants so that your favourites stay at the top of the list.
 Favourited Restaurants will also appear with a star on the map.
+Favourited Restaurants will be stored in users phones so that future runs will retain favourited restaurants.
 
 You can search through the list by name, hazard rating, and so forth.
   
