@@ -23,21 +23,13 @@ You can click on the restaurant logos for their current inspection hazard rating
 Clicking the rating will take you to the list page with the details of the restaurant location, the latest rating along, and a list of past hazard inspections.
 
 ## The List
-Each restaurant will have the following information
-
-  Name, Physical Address, Physical City, FacType, Latitude, and Longitude
+Each restaurant will have the following information : Name, Physical Address, Physical City, FacType, Latitude, and Longitude
   
-
-Each inspection can be clicked on for further details including
-
-  Inspection Date, Inspection Type, Critical or not Critical, Violation Details, and Hazard Rating
-  
+Each inspection can be clicked on for further details including : Inspection Date, Inspection Type, Critical or not Critical, Violation Details, and Hazard Rating
   
 You can star the restaurants so that your favourites stay at the top of the list.
-
-Favourited Restaurants will also appear with a star on the map.
-
-Favourited Restaurants will be stored in users phones so that future runs will retain favourited restaurants.
+-Favourited Restaurants will also appear with a star on the map.
+-Favourited Restaurants will be stored in users phones so that future runs will retain favourited restaurants.
 
 
 You can search through the list by name, hazard rating, and so forth.
