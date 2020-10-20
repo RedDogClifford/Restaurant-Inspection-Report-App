@@ -3,6 +3,15 @@
 The Restaurant-Inspection-Report Application displays restaurant inspection rating in surrey on a map and list.
 
 ## How it works
+## Data Updates
+Obtains data from two Surrey database url links :
+
+http://data.surrey.ca/api/3/action/package_show?id=restaurants
+
+http://data.surrey.ca/api/3/action/package_show?id=fraser-health-restaurant-inspection-reports
+
+On runtime, app will check for updates from the Surrey database if application hasn't been updated for over 24 hours.
+Allows user to accept or decline update. 
 
 ## The Map
 Shows all restuarants nearby your location with their company logos.
