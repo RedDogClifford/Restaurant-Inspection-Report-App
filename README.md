@@ -10,7 +10,7 @@ http://data.surrey.ca/api/3/action/package_show?id=restaurants
 
 http://data.surrey.ca/api/3/action/package_show?id=fraser-health-restaurant-inspection-reports
 
-On runtime, app will check for updates from the Surrey database if application hasn't been updated for over 24 hours.
+On runtime, if the application hasn't been updated for over 24 hours, the app will check for updates from the Surrey database.
 Allows user to accept or decline update. 
 
 ## The Map
