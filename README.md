@@ -13,6 +13,8 @@ http://data.surrey.ca/api/3/action/package_show?id=fraser-health-restaurant-insp
 On runtime, if the application hasn't been updated for over 24 hours, the app will check for updates from the Surrey database.
 Allows user to accept or decline update. 
 
+The application will store previous database updates on user phone so that the program may be run offline. 
+
 ## The Map
 Shows all restuarants nearby your location with their company logos.
 
