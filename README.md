@@ -13,10 +13,10 @@ Clicking the rating will take you to the list page with the details of the resta
 
 ## The List
 Each restaurant will have the following information
-  Name, Physical Address, Physical City, FacType, Latitude, Longitude
+  Name, Physical Address, Physical City, FacType, Latitude, and Longitude
 
 Each inspection can be clicked on for further details including
-  Inspection Date, Inspection Type, Critical or not Critical, Violation Details, Hazard Rating
+  Inspection Date, Inspection Type, Critical or not Critical, Violation Details, and Hazard Rating
   
 You can star the restaurants so that your favourites stay at the top of the list.
 Favourited Restaurants will also appear with a star on the map.
@@ -34,8 +34,10 @@ Stored and retrieved data inside android phones using InputStreams.
 
 Builded UI layouts with working lists, dropdowns, buttons, toolbars, images, and many more.  
 
-Worked in a 4 man agile team that experienced environmental changes. 
+Worked in a 4 man agile team that experienced weekly iteration changes to the project. (Total of 3 iterations) 
 
 Learned to adapt to changes, plan & test as a team, and catch bugs through formal/informal code reviews. 
 
-Resolved Gitlab merging issues, and learned how to add, commit, push, and pull from gitlab repository. Experienced both techniques of Checkout-Edit-Merge and Lock-Edit-Unlock.
+Resolved Gitlab merging issues, and learned how to add, commit, push, and pull from gitlab repository. 
+
+Experienced both techniques of Checkout-Edit-Merge and Lock-Edit-Unlock.
