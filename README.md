@@ -24,6 +24,7 @@ Favourited Restaurants will also appear with a star on the map.
 You can search through the list by name, hazard rating, and so forth.
   
   
+  
 ## Project Details  
 
 The app is extremely simple to use. You can switch between the map and list with a simple click of a button.
